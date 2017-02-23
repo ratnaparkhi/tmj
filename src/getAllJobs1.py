@@ -1,5 +1,6 @@
-#!/usr/bin/python
+#!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
 # coding: utf-8
+###!/usr/bin/python
 # This script performs the following operations
 # (1) Downloads publicly available data from the “Jobs” endpoint.
 # It uses an optional argument '--pages' that specifies how many pages to download. 
